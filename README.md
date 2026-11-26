@@ -14,11 +14,11 @@ My background is in supporting people, devices and business systems. I’m now d
 ## Featured project
 
 ### [DevOps Academy](https://github.com/fahimahmeduk/devops-academy)
-My hands-on learning journal, with Linux, Git and Bash exercises, a server health monitor, and a roadmap for what I’m learning next.
+My hands-on learning journal, with Linux, Git, Bash and Docker fundamentals exercises, a server health monitor, and a roadmap for what I’m learning next.
 
 ## My learning journey
 
-I’ve been building foundations in Linux, Git and Bash, and I’m now moving into Docker and containerisation. My roadmap also includes monitoring, CI/CD, Terraform, Ansible and Kubernetes.
+I’ve built foundations in Linux, Git and Bash, and completed Docker Fundamentals through hands-on container lifecycle and inspection exercises. I’m continuing to deepen my understanding as I move through my roadmap: monitoring, CI/CD, Terraform, Ansible and Kubernetes.
 
 I learn by understanding a topic, practising it in my lab, building something practical, testing what happens when things go wrong, and documenting what I discover. These projects and posts show my progress; I’m continuing to deepen my understanding as the topics get more advanced.
 
