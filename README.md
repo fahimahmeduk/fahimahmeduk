@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Fahim Ahmed 👋
 
-<!--
-**fahimahmeduk/fahimahmeduk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT support professional building my DevOps skills through hands-on learning and projects in my homelab.
 
-Here are some ideas to get you started:
+My background is in supporting people, devices and business systems. I’m now documenting my progress as I learn more about Linux, scripting, containers and the tools used to build and run reliable services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 💼 IT support professional with 4+ years of experience
+- 🧪 Learning DevOps through practical labs in my Ubuntu homelab
+- 📝 Sharing my progress as I learn, with each post capturing part of the journey
+- 🔍 I keep exploring each topic in more depth as I move forward
+
+## Featured project
+
+### [DevOps Academy](https://github.com/fahimahmeduk/devops-academy)
+My hands-on learning journal, with Linux, Git and Bash exercises, a server health monitor, and a roadmap for what I’m learning next.
+
+## My learning journey
+
+I’ve been building foundations in Linux, Git and Bash, and I’m now moving into Docker and containerisation. My roadmap also includes monitoring, CI/CD, Terraform, Ansible and Kubernetes.
+
+I learn by understanding a topic, practising it in my lab, building something practical, testing what happens when things go wrong, and documenting what I discover. These projects and posts show my progress; I’m continuing to deepen my understanding as the topics get more advanced.
+
+## Find me
+
+- GitHub: [@fahimahmeduk](https://github.com/fahimahmeduk)
