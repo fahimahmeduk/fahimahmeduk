@@ -25,3 +25,4 @@ I learn by understanding a topic, practising it in my lab, building something pr
 ## Find me
 
 - GitHub: [@fahimahmeduk](https://github.com/fahimahmeduk)
+- LinkedIn: [fahimahmeduk](https://www.linkedin.com/in/fahimahmeduk/)
